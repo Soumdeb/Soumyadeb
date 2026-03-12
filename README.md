@@ -63,6 +63,4 @@ I enjoy learning new technologies and turning ideas into real applications.
 
 
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Soumdeb/Soumyadeb/output/snake.svg" alt="Snake animation" />
