@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" style="border-radius:50%" alt="profile avatar"/>
+  <img src="D:\Soumyadeb\Github PFP.png" width="150" style="border-radius:50%" alt="profile avatar"/>
 </div>
 
 <h3 align="center">Soumyadeb Nandy</h3>
