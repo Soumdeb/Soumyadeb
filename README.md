@@ -1,15 +1,21 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">
+<font color="#B3B3B3">
+Welcome to My GitHub
+<img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
+</font>
+</h1>
 
 <div align="center">
-  <img src="Github PFP.png" width="150" style="border-radius:50%" alt="profile avatar"/>
+  <img src="Github PFP.png" width="200" style="border-radius:50%" alt="profile avatar"/>
 </div>
 
-<h3 align="center">Soumyadeb Nandy</h3>
+<div align="center">
 
-<p align="center">
-3rd-year B.Tech IT student passionate about coding and building intelligent systems.<br>
-I enjoy learning new technologies and turning ideas into real applications.
-</p>
+<h2>Soumyadeb Nandy</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%2F+ML+Enthusiast;GATE+Aspirant;Tech+Explorer"/>
+
+</div>
 
 ---
 
