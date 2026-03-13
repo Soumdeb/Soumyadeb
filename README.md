@@ -59,9 +59,9 @@ Welcome to My GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soumdeb&show_icons=true&title_color=FFD700&icon_color=FF0033&text_color=FFD700&bg_color=000000&border_color=FF0033&border_radius=12" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soumdeb&show_icons=true&title_color=FFD700&icon_color=FF0033&text_color=FFD700&bg_color=000000&border_color=FF0033&border_radius=12&cache_seconds=1800" height="185"/>
 
-<img src="https://streak-stats.demolab.com?user=Soumdeb&background=000000&ring=FF0033&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFD700&sideNums=FFD700&dates=FFFFFF&border=FF0033&border_radius=12" height="185"/>
+<img src="https://streak-stats.demolab.com?user=Soumdeb&background=000000&ring=FF0033&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFD700&sideNums=FFD700&dates=FFFFFF&border=FF0033&border_radius=12&cache_seconds=1800" height="185"/>
 
 </div>
 
@@ -69,7 +69,7 @@ Welcome to My GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumdeb&layout=compact&title_color=FFD700&text_color=FFD700&bg_color=000000&border_color=FF0033&border_radius=12&langs_count=6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumdeb&layout=compact&title_color=FFD700&text_color=FFD700&bg_color=000000&border_color=FF0033&border_radius=12&langs_count=6&cache_seconds=1800" height="180"/>
 
 </div>
 
