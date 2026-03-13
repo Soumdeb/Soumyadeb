@@ -19,7 +19,7 @@ Welcome to My GitHub
 
 ---
 
-### 🚀 Tech & Tools
+### Tech & Tools
 
 <div align="center">
 
@@ -29,7 +29,7 @@ Welcome to My GitHub
 
 ---
 
-### 🧠 Libraries & Frameworks
+###  Libraries & Frameworks
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Welcome to My GitHub
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <div align="center">
 
@@ -55,19 +55,27 @@ Welcome to My GitHub
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soumdeb&show_icons=true&theme=dracula" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soumdeb&show_icons=true&title_color=FFD700&icon_color=FF0033&text_color=FFD700&bg_color=000000&border_color=FF0033&border_radius=12" height="185"/>
 
-<img src="https://streak-stats.demolab.com?user=Soumdeb&theme=dracula" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Soumdeb&background=000000&ring=FF0033&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFD700&sideNums=FFD700&dates=FFFFFF&border=FF0033&border_radius=12" height="185"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumdeb&layout=compact&title_color=FFD700&text_color=FFD700&bg_color=000000&border_color=FF0033&border_radius=12&langs_count=6" height="180"/>
 
 </div>
 
 ---
 
-# 🟩 Contribution Graph
+### Contribution Graph
 
 
 
